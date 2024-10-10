@@ -1,0 +1,12 @@
+Daily Temperature Report
+Monday: 32
+Tuesday: 30
+Wednesday: 31
+Thursday: 29
+Friday: 33
+Saturday: 34
+Sunday: 32
+
+Average Temperature: 31.571428571428573
+Maximum Temperature: 34 (on Saturday)
+Minimum Temperature: 29 (on Thursday)
